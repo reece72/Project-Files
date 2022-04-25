@@ -1,0 +1,572 @@
+/* Styles the website's background colour */
+body {
+	background-color: rgb(160, 160, 160);
+}
+
+/* Styles the text for heading 1 */
+h1 {
+	margin: 0;
+	padding: 0;
+	font-family: Sans-serif, "Arial";
+	font-weight: normal;
+	color: #000000;
+	font-size: 3em;
+}
+
+/* Styles the text for heading 2 */
+h2 {
+	margin: 0;
+	padding: 0;
+	font-family: Sans-serif, "Arial";
+	font-weight: normal;
+	color: #000000;
+	font-size: 2em;
+}
+
+/* Styles the text for the paragraphs on the website */
+p {
+	margin: 0;
+	padding: 0;
+	font-family: Sans-serif, "Arial";
+	font-weight: normal;
+	color: #000000;
+	font-size: 2em;
+}
+
+/* This css code styles the navigation bar */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: rgb(71, 71, 71);
+  padding: 2px;
+  text-align: center;
+  font-size: 35px;
+  color: rgb(255, 255, 255);
+}
+
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #000000;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(102, 102, 102);
+}
+
+/* This is all the code for the dropdown menu */
+.dropbtn {
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 75px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics {
+  position: relative;
+  float: left;
+  top: 0.3em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics7 {
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 33.3em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics8{
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 27.6em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics9 {
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 21.9em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics10 {
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 16.2em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics11 {
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 10.5em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntopics12 {
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 4.8em;
+  width: 49%;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests {
+  position: relative;
+  width: 49%;
+  float: left;
+  top: 0.3em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests7 {
+  width: 49%;
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 33.3em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests8 {
+  width: 49%;
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 27.6em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests9 {
+  width: 49%;
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 21.9em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests10 {
+  width: 49%;
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 16.2em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests11 {
+  width: 49%;
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 10.5em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropbtntests12 {
+  width: 49%;
+  position: absolute;
+  float: right;
+  right: 0;
+  bottom: 4.8em;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  text-align: center;
+  padding: 50px 150px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.dropdown-content {
+  display: none;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content7 {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 4em;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content8 {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 12em;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content9 {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 20em;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content10 {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 29em;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content11 {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 37em;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content12 {
+  display: none;
+  position: fixed;
+  right: 0;
+  top: 45em;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content7 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content8 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content9 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content10 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content11 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content12 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #A9A9A9}
+
+.dropdown-content7 a:hover {background-color: #A9A9A9}
+
+.dropdown-content8 a:hover {background-color: #A9A9A9}
+
+.dropdown-content9 a:hover {background-color: #A9A9A9}
+
+.dropdown-content10 a:hover {background-color: #A9A9A9}
+
+.dropdown-content11 a:hover {background-color: #A9A9A9}
+
+.dropdown-content12 a:hover {background-color: #A9A9A9}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content7 {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content10 {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content9 {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content8 {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content11 {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content12 {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics7 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics8 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics9 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics10 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics11 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntopics12 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests7 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests8 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests9 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests10 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests11 {
+  background-color: #979797;
+}
+
+.dropdown:hover .dropbtntests12 {
+  background-color: #979797;
+}
+
+.dropdown-content {
+  position: fixed;
+}
