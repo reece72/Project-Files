@@ -1,0 +1,9 @@
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('reecegnorman@gmail.com', 2, 'Reece Norman', '$2y$10$8UWlL/M2TEnatOQCy3wmcu80g6US/jHgleAwvy2FSfDJyd5ncYU4y', 'Fatti');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('georgernorman@gmail.com', 3, 'George Norman', '$2y$10$2JZMKDNNQqdT2TktYfn9b.sYVclJ.DauX0E42kRlPuMe4O13Bcbsa', 'George1');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('abc@gmail.com', 4, 'Reece Norman', '$2y$10$bqisYm27O.APWukLYElqBuxpNm/i7y/zu6bohAqS0SGeIf7TTF1lK', '123');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('jakewnorman@gmail.com', 5, 'Jake Norman', '$2y$10$aY2fZf1a/wwsD0oHGPvWRevjc.Omgz4CM5lwryiWUJFitujJDIhK.', 'Jake');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('mc1920@gmail.com', 6, 'Mike Cole', '$2y$10$POABo71Tfoe9RjABFMRXE.0AoohJeuJSjIWoJ9T/vvvts9VZJCZ6y', 'Mike');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('jwn@gmail.com', 7, 'Joanne Norman', '$2y$10$jlaOUJXdonYxXcl00gcgneXtZ5.IpD8CyPZAJgToxfrPV1EbPYnum', 'J');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('kai123@gmail.com', 8, 'Kai Dude', '$2y$10$2ZFH6sDZEphnUGq7qQ0LO.OfVbKs9s8JpmtIPgPfuxQ/QzKPdmeEO', 'k12k1jsq');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('deep@deep.com', 9, 'deep', '$2y$10$lLn5EJ68514scZTGM4Jl0uDk/kJLcuXIW5EVX9o4LRpderX9QIJfO', 'deep');
+insert into `users` (`usersEmail`, `usersId`, `usersName`, `usersPwd`, `usersUid`) values ('bobwnorman@gmail.com', 10, 'Bob W', '$2y$10$4YcUsaeYHSzhVulDJfAHJOaJmH37lF7uZgZkmer9ndAKMdXVfNeam', 'Bobby');
